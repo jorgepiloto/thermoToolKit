@@ -7,6 +7,11 @@ Created on Tue Mar  6 23:29:17 2018
 
 import thermoToolKit  
 
+print("""
+    Bienvenido al programa de ejemplo de THERMO TOOL KIT
+    A continuación se le introducirá un ejemplo   
+""")
+
 ### EJEMPLO DEL USO DE LA HERRAMIENTA "INTERPOLATE"
 xa = float(input("Valor para Xa: "))
 x = float(input("Valor para X: "))
