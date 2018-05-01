@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar  7 15:15:12 2018
-
-@author: Horus
-"""
 Rg = 0
 Gamma = 0
 Cv = 0
