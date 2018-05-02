@@ -43,7 +43,7 @@ base of the fin is maintained at 127 ºC.
 * Calculate the average convection heat transfer coefficient for 	 the fin surface and the heat rate from the fin.
 
 <p align="center">
-![alt text](http://www.thermopedia.com/content/5637/TUBES_CROSSFLOW_OVER_FIG1.gif)
+  <img width="460" height="170" src="http://www.thermopedia.com/content/5637/TUBES_CROSSFLOW_OVER_FIG1.gif">
 </p>
 
 
