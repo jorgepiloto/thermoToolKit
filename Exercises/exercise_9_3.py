@@ -1,5 +1,6 @@
 from thermoToolKit.HeatTransfer.heatConvection import resConv, fluxConv
 from thermoToolKit.Utils.utils import resParallel
+
 #DATA PROVIDED IN THE EXERCISE:
 
 At = 1.2 #Total area of the surface
